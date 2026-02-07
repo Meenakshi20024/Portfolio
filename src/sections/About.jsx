@@ -17,10 +17,13 @@ const About = () => {
             className="absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
           />
           <div className="z-10">
-            <p className="headtext">Hi, I'm Ali Sanati</p>
+            <p className="headtext">Hi, I'm Meenakshi Dangi</p>
             <p className="subtext">
-              Over the last 4 years, I developed my frontend and backend dev
-              skills to deliver dynamic and software and web applications.
+              Hi, I’m Meenakshi.
+                    I’m a Full Stack Web Developer with a love for building creative and user-friendly digital
+                    solutions. My journey started with curiosity for coding, which soon grew into a passion for crafting
+                    complete web experiences. Along the way, I also discovered my interest in UI/UX design, making
+                    technology not just functional but beautiful.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -81,7 +84,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in Mars, and open to remote work worldwide
+              I'm based in Bhopal, and open to remote work worldwide
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
